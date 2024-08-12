@@ -1,4 +1,4 @@
-<h1 align="center">Jogo do Número Secreto</h1>
+<h1 align="center">Jogo do Número Secreto - Curso Alura</h1>
 
 
 ## 📌 Sobre o Jogo
