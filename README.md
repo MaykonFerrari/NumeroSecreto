@@ -7,9 +7,6 @@
    Caso tenha gostado ou esteja com amigos, poderá estar reiniciando o jogo, assim gerando outro número aleatorio. <b>DIVIRTAM-SE</b>
 </p>
 
-## 📍TECNOLOGIAS
-<div>
-   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+## TECNOLOGIAS
+
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&labelColor=black) ![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3)
