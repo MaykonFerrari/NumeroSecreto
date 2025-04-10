@@ -7,6 +7,8 @@
    Caso tenha gostado ou esteja com amigos, poderá estar reiniciando o jogo, assim gerando outro número aleatorio. <b>DIVIRTAM-SE</b>
 </p>
 
+<a href="https://numero-secreto-lilac-eight.vercel.app/">Link do Jogo</a>
+
 ## TECNOLOGIAS
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&labelColor=black) ![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3)
