@@ -52,6 +52,8 @@ function gerarNumeroAleatorio() {
     }
 }
 
+console.log(numeroEscolhido)
+
 function limparCampo() {
     chute = document.querySelector('input');
     chute.value = '';
